@@ -25,7 +25,7 @@ While developing this project, I was able to:
 
 ## Install and run
 
-1. Open the terminal and create a directory in your preferred location with the `mkdir` command:
+1. Open the terminal and create a directory in your preferred location:
   ```
   mkdir fernandacajueiro-projects
   ```
