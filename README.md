@@ -70,7 +70,7 @@ While developing this project, I was able to:
   }
   ```
 - To delete a recipe, use the route `/recipes/:id` and the method `DELETE`.
-- To add an image to a recipe, use the route `/recipes/:id/image` and the method `PUT.
+- To add an image to a recipe, use the route `/recipes/:id/image` and the method `PUT`.
 - To access a recipe image, use the route `/images/<recipe-id>.jpeg` and the method `GET`.
 
 **TIP**: use [Insomnia](https://insomnia.rest/) app to interact easily with the HTTPS-based APIs.
